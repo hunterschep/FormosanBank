@@ -12,7 +12,7 @@ None supplied by the source.
 
 ## Notes and Issues
 
-The reviewed source apostrophe generates /ʔ/ in original PHON. Standard representation remains unresolved because the current Ortho113 profile has no apostrophe mapping; see the [conversion decision](CodeAndDocs/README.md). Technical port readiness is pending that decision. Eleven source form/gloss pairs use flat infix notation; their reviewed analyses and both source and standardized glosses are preserved despite audit warnings.
+The reviewed source apostrophe preserves 130 glottal stops across 111 original PHON values. Current standard PHON omits them. Ortho113 uses doubled `ee` in some spellings, but supplies no general conversion for this source's apostrophes; see the [conversion decision](CodeAndDocs/README.md). Technical port readiness is pending that decision. Eleven source form/gloss pairs use flat infix notation; their reviewed analyses and both source and standardized glosses are preserved despite audit warnings.
 
 ## Rights
 
